@@ -1,0 +1,17 @@
+Title: My iPad Fix
+
+----
+
+Author: Emily Hendricks
+
+----
+
+Description: This is a tool intended to empower iPad users through the process of independent troubleshooting. 
+
+----
+
+Keywords: iPad, Apple, Hillbrook, school, user, hardware, software, wifi, accounts, portal, login, password, screen, break, button, charge, battery, issue, success.
+
+----
+
+Copyright: © 2016-(date: Year) (link: http://myipadfix.com text: My iPad Fix)

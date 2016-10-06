@@ -1,0 +1,10 @@
+Title: volume not muted
+
+----
+
+Text: 
+
+###Check for apps using (link: https://en.wikipedia.org/wiki/Streaming_media target: _blank text: **streaming audio**).  
+
+If the internet is slow, this can delay the sound from playing.  
+Wait a few seconds and see if the sound starts on its own.
